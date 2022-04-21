@@ -15,18 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Week_02.cpp">
+    <ClCompile Include="..\DataTypes\Employee.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Employee.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="MyMemory.cpp">
+    <ClCompile Include="..\DataTypes\DataTypes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Employee.h">
+    <ClInclude Include="..\DataTypes\Employee.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

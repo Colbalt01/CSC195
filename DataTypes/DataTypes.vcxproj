@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{77fdc019-f938-49a3-9664-4b7d8f553ce2}</ProjectGuid>
-    <RootNamespace>Week02</RootNamespace>
+    <ProjectGuid>{7b598dfe-92b2-4319-8570-650d3b2acbfc}</ProjectGuid>
+    <RootNamespace>DataTypes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,9 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DataTypes.cpp" />
     <ClCompile Include="Employee.cpp" />
-    <ClCompile Include="MyMemory.cpp" />
-    <ClCompile Include="Week_02.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Employee.h" />

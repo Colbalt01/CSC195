@@ -4,9 +4,9 @@
 #include <string.h>
 
 
-//Constructor
+
 Employee::Employee() {
-	memset(this->name, '\0', sizeof(this->name));
+    //memset(this->name, '\0', sizeof(this->name));
 }
 //
 void Employee::Read() {

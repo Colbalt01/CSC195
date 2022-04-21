@@ -15,18 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Week_02.cpp">
+    <ClCompile Include="Week_03.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Employee.cpp">
+    <ClCompile Include="MyBase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MyMemory.cpp">
+    <ClCompile Include="MyDerived.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Employee.h">
+    <ClInclude Include="MyBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyDerived.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MyConfig.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
